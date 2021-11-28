@@ -1,8 +1,4 @@
-.resources__logo_strelka {
+.resources__logo {
   width: 270px;
   height: 38px;
-  background-image: url(../../../../Images/logo/resources-strelka.svg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
 }
